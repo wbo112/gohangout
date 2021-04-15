@@ -10,7 +10,6 @@ import (
 	"regexp"
 	"strings"
 	"time"
-
 	"github.com/childe/gohangout/codec"
 	"github.com/childe/gohangout/condition_filter"
 	"github.com/childe/gohangout/topology"
